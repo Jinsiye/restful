@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
+            <state relative-caret-position="1047">
               <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
@@ -77,8 +77,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-34" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-28" />
     <option name="y" value="-9" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -207,7 +207,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
+        <state relative-caret-position="1047">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
